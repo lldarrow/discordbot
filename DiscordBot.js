@@ -24,7 +24,7 @@ var Discord = require('discord.js');
 var bot = new Discord.Client();
 
 //your discord bot token here
-var token = "MzA3MzU0MzA0NDM4NTk5Njgw.C-RO3A.L4IlUZH0EC_0MkzSHwWnl28ZKjY";
+var token = "your token here";
 //stats file location
 var statsPath = "./stats.json";
 //sound files location
